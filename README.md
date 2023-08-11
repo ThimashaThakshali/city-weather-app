@@ -41,6 +41,6 @@ CSS
 JavaScript
 OpenWeatherMap API
 
-##Link : 
+##Link 
 https://thimashathakshali.github.io/city-weather-app/
 
