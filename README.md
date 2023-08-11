@@ -1,6 +1,9 @@
-# Weather-App-React
+# City-Weather-App
 
 This is a Weather App that allows you to check the latest weather information for different cities. The app uses the OpenWeatherMap API to fetch the weather data and presents it in a user-friendly interface. The application is built using React and follows responsive design principles to work seamlessly on both desktop and mobile devices.
+
+##Link to city-weather-app:
+https://thimashathakshali.github.io/city-weather-app/
 
 ## Features
 
@@ -41,6 +44,5 @@ CSS
 JavaScript
 OpenWeatherMap API
 
-##Link 
-https://thimashathakshali.github.io/city-weather-app/
+
 
