@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/city-weather-app/static/css/main.ebfb0b93.css",
+    "main.js": "/city-weather-app/static/js/main.e3d6d523.js",
+    "static/js/787.d9312eb8.chunk.js": "/city-weather-app/static/js/787.d9312eb8.chunk.js",
+    "static/media/backgroundImg.png": "/city-weather-app/static/media/backgroundImg.8265a07780fc380a4978.png",
+    "static/media/tornado.png": "/city-weather-app/static/media/tornado.57472a8d7b7bb0a708f6.png",
+    "static/media/thunderstorm.png": "/city-weather-app/static/media/thunderstorm.175884ec946200a020ea.png",
+    "static/media/dust.png": "/city-weather-app/static/media/dust.3889ba589a096f3b77db.png",
+    "static/media/snowflake.png": "/city-weather-app/static/media/snowflake.2d6abc4c7f3cd014d330.png",
+    "index.html": "/city-weather-app/index.html",
+    "main.ebfb0b93.css.map": "/city-weather-app/static/css/main.ebfb0b93.css.map",
+    "main.e3d6d523.js.map": "/city-weather-app/static/js/main.e3d6d523.js.map",
+    "787.d9312eb8.chunk.js.map": "/city-weather-app/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebfb0b93.css",
+    "static/js/main.e3d6d523.js"
+  ]
+}
